@@ -1,0 +1,257 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  text-decoration: none;
+}
+header,
+body {
+  padding-top: 1px;
+  color: #172c66;
+  background-color: #fef6e4;
+  padding-bottom: 50px;
+}
+.list_container {
+  text-align: right;
+  margin-right: 10%;
+  margin-top: 30px;
+}
+.nav_links li {
+  display: inline-block;
+  margin-left: 20px;
+  padding-right: 20px;
+}
+.header_font {
+  font-family: "Madimi One", sans-serif;
+}
+.dis_font,
+.nav_links li {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #172c66;
+}
+.home_container {
+  display: flex;
+  margin-right: 20px;
+}
+.left,
+.right {
+  width: 50%;
+  box-sizing: border-box;
+}
+.right {
+  padding-right: 30px;
+}
+.left {
+  text-align: center;
+  margin-top: 2%;
+}
+.discription {
+  padding-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text_header {
+  font-size: 100px;
+}
+.right img {
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 10px 10px 17px 0px rgba(0, 0, 0, 0.75);
+}
+._container,
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+._card,
+.card {
+  width: 18%;
+
+  text-align: center;
+  margin-bottom: 20px;
+}
+._container {
+  margin-top: 2%;
+  height: 100%;
+}
+._card {
+  width: 32%;
+}
+._content,
+._container {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+._card img {
+  width: 100%;
+  border-radius: 20px;
+}
+._card_2 img {
+  width: 100%;
+  height: 80%;
+}
+._card_text,
+.dis_fon {
+  margin: 2%;
+  font-size: 14px;
+  width: 50%;
+  padding-left: 90px;
+}
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f3d2c1;
+  width: 60%;
+  height: 200px;
+  margin-top: 60px;
+  border-radius: 50px;
+  box-shadow: 9px 10px 28px -10px rgba(0, 0, 0, 0.75);
+}
+.about_us {
+  font-family: "Montserrat", sans-serif;
+  padding-top: 20px;
+  text-align: center;
+  color: #172c66;
+  font-weight: 600;
+}
+.box {
+  font-weight: 500;
+}
+.mission {
+  padding-top: 50px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.about_us_header {
+  margin-top: 10%;
+}
+.cottage_rate {
+  margin-left: 20px;
+}
+.prices {
+  margin-top: 0px;
+}
+.cottage_rate {
+  list-style: none;
+}
+.prices {
+  padding-top: 20px;
+  width: 30%;
+  font-weight: 200;
+  font-size: 15px;
+}
+
+div.elem-group.inlined {
+  width: 49%;
+  float: left;
+  margin-left: 1%;
+}
+
+label {
+  display: block;
+  font-family: "Nanum Gothic";
+  padding-bottom: 10px;
+  font-size: 1.25em;
+}
+
+input,
+select,
+textarea {
+  border-radius: 2px;
+  border: 2px solid #777;
+  box-sizing: border-box;
+  font-size: 1.25em;
+  font-family: "Nanum Gothic";
+  width: 100%;
+  padding: 10px;
+}
+div.elem-group.inlined input {
+  width: 95%;
+  display: inline-block;
+}
+
+textarea {
+  height: 250px;
+}
+
+hr {
+  border: 1px dotted #ccc;
+}
+
+button {
+  height: 50px;
+  background: #f582ae;
+  border: none;
+  color: white;
+  font-size: 1.25em;
+  font-family: "Nanum Gothic";
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 0 12px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background: #333;
+  color: white;
+}
+
+.nav_links a:hover {
+  color: black;
+  font-weight: bold;
+}
+.main_secondpage {
+  margin-top: 10%;
+  margin-left: 15px;
+}
+.footer {
+  width: 100%;
+  height: 300px;
+  background-color: #5a5a5a;
+}
+.contact_us {
+  color: white;
+  padding-top: 5%;
+  margin-left: 10px;
+}
+.footer_discription p {
+  margin-left: 10px;
+  color: white;
+}
+.footer_discription a {
+  color: white;
+}
+
+.footer_text {
+  margin-bottom: 10px;
+}
+.attribution a {
+  padding-top: 20px;
+}
+.wawa {
+  font-size: 12px;
+  color: white;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.wawa a {
+  color: white;
+}
+.form {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: 200px;
+  margin-top: 60px;
+  border-radius: 50px;
+}
+main {
+  margin-bottom: 30px;
+}
+.footer_discription img {
+  margin-right: 5px;
+}
